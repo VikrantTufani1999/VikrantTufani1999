@@ -18,7 +18,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 ## 💻You can find me on:
 
 * LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*
-* Portfolio: *[YouTube](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
+* Portfolio: *[My Game Development Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
 
 
 
