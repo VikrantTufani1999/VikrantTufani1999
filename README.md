@@ -8,17 +8,17 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 ## ⚡Skills
 
-C++,  
-Unity,  
-C#,   
-Adobe Photoshop,  
-HTML,  
-CSS
+* C++  
+* Unity  
+* C#   
+* Adobe Photoshop  
+* HTML  
+* CSS
 
 ## 💻You can find me on:
 
 * LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*
-* Portfolio: *[Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
+* Portfolio: *[YouTube](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
 
 
 
