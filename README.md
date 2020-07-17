@@ -9,7 +9,9 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 ## ⚡Skills
 
 * C++  
-* Unity  ![Unity Logo](C:\Users\HP-USER\Downloads\Unity.png)
+* Unity  
+
+![Unity Logo](C:\Users\HP-USER\Downloads\Unity.png)
 
 * C#   
 * Adobe Photoshop  
