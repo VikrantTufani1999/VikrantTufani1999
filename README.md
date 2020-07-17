@@ -10,9 +10,6 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 * C++  
 * Unity  
-
-![Unity Logo](C:\Users\HP-USER\Downloads\Unity.png)
-
 * C#   
 * Adobe Photoshop  
 * HTML  
@@ -22,6 +19,17 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 * LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*
 * Portfolio: *[My Game Development Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
+
+
+
+
+
+
+
+
+
+![Unity Logo](C:\Users\HP-USER\Downloads\Unity.png)
+
 
 
 
