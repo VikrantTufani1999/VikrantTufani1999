@@ -25,18 +25,6 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 
 
-
-
-
-![Unity Logo](C:\Users\HP-USER\Downloads\Unity.png)
-
-
-
-
-
-
-
-
 <!--
 **VikrantTufani1999/VikrantTufani1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
