@@ -26,7 +26,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 <a href = "mailto: 8052007294vicky@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
-<br>
+
 * Youtube: *[My Game Development Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
 * Behance: *[Graphic Design Portfolio](https://www.behance.net/vikrant_tufani)*
 
