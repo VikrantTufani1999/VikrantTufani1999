@@ -26,9 +26,15 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 <a href = "mailto: 8052007294vicky@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
+<a href="https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat">
+  <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />
+</a>
+<a href="https://www.behance.net/vikrant_tufani">
+  <img align="left" width="50px" src="https://img.icons8.com/cute-clipart/64/000000/behance.png" />
+</a>
 
-* Youtube: *[My Game Development Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
-* Behance: *[Graphic Design Portfolio](https://www.behance.net/vikrant_tufani)*
+<!--* Youtube: *[My Game Development Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*-->
+<!-- * Behance: *[Graphic Design Portfolio](https://www.behance.net/vikrant_tufani)* -->
 
 
 
