@@ -4,7 +4,7 @@ Unity Game Developer | Graphic Designer | Coder | Freelancer
 
 ![](https://github-readme-stats.vercel.app/api?username=VikrantTufani1999&show_icons=true&line_height=30)
 
-## 🧐About
+## 🧐About me 
 
 I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I like to code and I develop 2D and 3D games with Unity. I also have a good hand in graphic design too.
 
@@ -21,6 +21,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 * LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*
 * Youtube: *[My Game Development Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
+* Behance: *[Graphic Design Portfolio](https://www.behance.net/vikrant_tufani)*
 
 
 
