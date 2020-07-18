@@ -4,7 +4,7 @@ Unity Game Developer | Graphic Designer | Coder | Freelancer
 
 ## 🧐About
 
-I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I like to code and I develop 2D and 3D games with Unity. I also have a good hand in graphic design.
+I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I like to code and I develop 2D and 3D games with Unity. I also have a good hand in graphic design too.
 
 ## ⚡Skills
 
@@ -18,7 +18,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 ## 💻You can find me on:
 
 * LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*
-* Portfolio: *[My Game Development Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
+* Youtube: *[My Game Development Portfolio](https://www.youtube.com/playlist?list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat)*
 
 
 
