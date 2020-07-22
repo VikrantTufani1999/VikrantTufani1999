@@ -2,7 +2,7 @@
 
 Unity Game Developer | Graphic Designer | Coder | Freelancer 
 
-![](https://github-readme-stats.vercel.app/api?username=VikrantTufani1999&show_icons=true&line_height=30)
+<!--![](https://github-readme-stats.vercel.app/api?username=VikrantTufani1999&show_icons=true&line_height=30)-->
 
 ## 🧐About me 
 
