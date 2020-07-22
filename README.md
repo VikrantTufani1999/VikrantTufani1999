@@ -11,7 +11,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 ## ⚡Skills :desktop_computer: :keyboard:
 
 * C++  
-* Unity  
+* Unity 2D/3D
 * C#   
 * Adobe Photoshop  
 * HTML  
