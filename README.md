@@ -6,7 +6,7 @@ Unity Game Developer | Graphic Designer | Coder | Freelancer
 
 ## 🧐About me 
 
-I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I like to code and I develop 2D and 3D games with Unity. I also have a good hand in graphic design too.
+I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I like to code and I develop 2D and 3D games with Unity. I have a good hand in graphic design too.
 
 ## ⚡Skills :desktop_computer: :keyboard:
 
