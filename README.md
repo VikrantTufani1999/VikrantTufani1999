@@ -25,7 +25,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 <a href = "mailto: 8052007294vicky@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
-<a href="https://www.youtube.com/watch?v=bpzzyHWngUs&list=PLzcqTNm_tWJJpU5xeSR6xd7u8rMqOaPat&index=2&t=0s">
+<a href="https://www.youtube.com/watch?v=bpzzyHWngUs">
   <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />
 </a>
 <a href="https://www.behance.net/vikrant_tufani">
