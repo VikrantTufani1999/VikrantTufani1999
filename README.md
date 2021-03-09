@@ -14,8 +14,8 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 * Unity 2D/3D
 * C#   
 * Adobe Photoshop  
-* HTML  
-* CSS
+* Python  
+* Javascript
 
 ## 💻You can find me on:
 
