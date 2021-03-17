@@ -12,10 +12,13 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 * C++  
 * Unity 2D/3D
-* C#   
-* Adobe Photoshop  
-* Python  
-* Javascript
+* C#     
+* Python 
+* Java 
+* HTML
+* CSS
+* JS
+* Graphic Design 
 
 ## 💻You can find me on:
 
