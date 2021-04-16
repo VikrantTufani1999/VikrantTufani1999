@@ -11,14 +11,11 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 ## ⚡Skills :desktop_computer: :keyboard:
 
 * C++  
-* Unity 2D/3D
+* Unity
 * C#     
 * Python 
-* Java 
-* HTML
-* CSS
-* JS
-* Graphic Design 
+* SQL
+* DBMS  
 
 ## 💻You can find me on:
 
