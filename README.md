@@ -1,6 +1,6 @@
 # Vikrant Kumar Tufani 🙂
 
-Unity Game Developer | Game Programmer | Graphic Designer | Coder | Freelancer 
+Software Developer | Unity Game Developer | Graphic Designer
 
 <!--![](https://github-readme-stats.vercel.app/api?username=VikrantTufani1999&show_icons=true&line_height=30)-->
 
