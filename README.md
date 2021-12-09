@@ -1,25 +1,25 @@
 # Vikrant Kumar Tufani 🙂
 
-Software Developer | Unity Game Developer | Graphic Designer
+Full Stack Java Developer | Graphic Designer | Unity Game Developer 
 
 <!--![](https://github-readme-stats.vercel.app/api?username=VikrantTufani1999&show_icons=true&line_height=30)-->
 
 ## 🧐About me 
 
-I am a CS undergrad pursuing my B. Tech degree from University of Petroleum & Energy Studies. I like to code and I also develop 2D and 3D games with Unity. I am a designer turned programmer.
+Hi, I am a 22 y/o from India and currently working as a full stack java developer. I take interest in developing web apps, games, and designing creatives. I am a tech enthusiast and I like reading about gizmos and tech stuff. Currently, I am working on strengthening my data structures and algorithms and learning react.
 
 ## ⚡Skills :desktop_computer: :keyboard:
 
-* C++  
-* Unity
-* C#     
+* Java
+* C++
 * Python 
 * SQL
 * DBMS
-* Java
 * HTML
 * CSS
-* JS  
+* JavaScript | React   
+* Unity
+* C#
 
 ## 💻You can find me on:
 
