@@ -8,7 +8,7 @@ Full Stack Java Developer | Graphic Designer | Unity Game Developer
 
 Hi, I am a 22 y/o from India and currently working as a full stack java developer. I take interest in developing web apps, games, and designing creatives. I am a tech enthusiast and I like reading about gizmos and tech stuff. Currently, I am working on strengthening my data structures and algorithms and learning react.
 
-## ⚡Skills :desktop_computer: :keyboard:
+<!--## ⚡Skills :desktop_computer: :keyboard:
 
 * Java
 * C++
@@ -19,7 +19,7 @@ Hi, I am a 22 y/o from India and currently working as a full stack java develope
 * CSS
 * JavaScript | React   
 * Unity
-* C#
+* C#-->
 
 ## 💻You can find me on:
 
