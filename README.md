@@ -6,7 +6,7 @@ Full Stack Developer (Java)
 
 ## 🧐About me 
 
-Hi, I am a 22 Y/O Indian currently working as a Software Developer. My interest is aimed in developing web applications. I am a tech enthusiast and I like reading about gizmos and tech stuff everyday. Currently, I am pursuing towards strengthening my data structures and algorithms and learning react.
+Hi, I am a 22 y/o Indian currently working as a Software Developer. My interest is aimed in developing web applications. I am a tech enthusiast and I like reading about gizmos and tech stuff everyday. Currently, I am pursuing towards strengthening my data structures and algorithms and learning react.
 
 <!--## ⚡Skills :desktop_computer: :keyboard:
 
