@@ -19,7 +19,7 @@ I am skilled in java along with the Spring framework. Moreover, I come with hand
 * Azure / AWS
 * Python
 * HTML
-* CSS
+* CSS -->
 
 ## 💻You can find me on:
 
@@ -31,11 +31,6 @@ I am skilled in java along with the Spring framework. Moreover, I come with hand
 </a>
 
 <!--* LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*-->
-
-
-
-
-
 
 <!--
 **VikrantTufani1999/VikrantTufani1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
