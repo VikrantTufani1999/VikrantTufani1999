@@ -24,10 +24,10 @@ I am skilled in java along with the Spring framework. Moreover, I come with hand
 ## 💻You can find me on:
 
 <a href="https://www.linkedin.com/in/vikranttufani1999/">
-  <img align="left" width="50px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
+  <img align="left" width="50px" src="https://img.icons8.com/fluency/344/linkedin.png" />
 </a>
 <a href = "mailto: 8052007294vicky@gmail.com">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
+  <img align="left" width="50px" src="https://img.icons8.com/color/344/gmail-new.png" />
 </a>
 
 <!--* LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*-->
