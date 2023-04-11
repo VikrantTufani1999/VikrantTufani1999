@@ -1,13 +1,13 @@
 # Vikrant Kumar Tufani 🙂
 
-Java | Spring | React
+Full-Stack Java Developer 
 
 <!--![](https://github-readme-stats.vercel.app/api?username=VikrantTufani1999&show_icons=true&line_height=30)-->
 
 ## 🧐About me 
 
-My name is Vikrant Kumar Tufani. I’m a CSE graduate of 2021 from the University of Petroleum and Energy Studies at Dehradun with a B. Tech degree in Computer Science Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. 
-I am skilled in java along with the Spring framework. Moreover, I come with hands-on experience in working with React and Azure as well. In my free time, I like to explore new domains and stay updated with different aspects of technology and entertainment industry.
+My name is Vikrant Kumar Tufani. I’m a CSE graduate from the University of Petroleum and Energy Studies. I'm passionate about giving back to the community and my goal is to pursue this passion within the field of software engineering. 
+I am skilled in java along with the springboot microservices. Moreover, I come with hands-on experience in working with React. In my freetime, I like to explore new channels and engage in diverse activities and stay updated about the ongoing around the world.
 
 <!--## ⚡Skills :desktop_computer: :keyboard:
 
