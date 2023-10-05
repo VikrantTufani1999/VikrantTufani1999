@@ -1,6 +1,6 @@
 # Vikrant Kumar Tufani 🙂
 
-Full-Stack Java Developer 
+Software Developer
 
 <!--![](https://github-readme-stats.vercel.app/api?username=VikrantTufani1999&show_icons=true&line_height=30)-->
 
