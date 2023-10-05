@@ -23,7 +23,7 @@ I am skilled in java along with the springboot microservices. Moreover, I come w
 
 ## 💻You can find me on:
 
-<a href="https://www.linkedin.com/in/vikranttufani1999/">
+<a href="https://www.linkedin.com/in/vikranttufani1999">
   <img align="left" width="50px" src="https://img.icons8.com/fluency/344/linkedin.png" />
 </a>
 <a href = "mailto: 8052007294vicky@gmail.com">
@@ -33,8 +33,6 @@ I am skilled in java along with the springboot microservices. Moreover, I come w
 <!--* LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*-->
 
 <!--
-**VikrantTufani1999/VikrantTufani1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
