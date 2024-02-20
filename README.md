@@ -6,8 +6,7 @@ Software Developer
 
 ## 🧐About me 
 
-My name is Vikrant Kumar Tufani. I’m a CSE graduate from the University of Petroleum and Energy Studies. I'm passionate about giving back to the community and my goal is to pursue this passion within the field of software engineering. 
-I am skilled in java along with the springboot microservices. Moreover, I come with hands-on experience in working with React. In my freetime, I like to explore new channels and engage in diverse activities and stay updated about the ongoing around the world.
+Hi, I am Vikrant Kumar Tufani and I’m a CSE graduate from the University of Petroleum and Energy Studies, Dehradun. I am mainly skilled in java, springboot, MySQL, React and javascript. I'm passionate about contributing to the developer community and like to explore open source sometimes. In my freetime, I watch content on new topics, listen to music, read blogs and stay updated about world affairs. My goal is to remain focused on what I do and be good at it.
 
 <!--## ⚡Skills :desktop_computer: :keyboard:
 
@@ -26,11 +25,11 @@ I am skilled in java along with the springboot microservices. Moreover, I come w
 <a href="https://www.linkedin.com/in/vikranttufani1999">
   <img align="left" width="50px" src="https://img.icons8.com/fluency/344/linkedin.png" />
 </a>
-<a href = "mailto: 8052007294vicky@gmail.com">
+<a href = "mailto: vikrant.tufani99@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/color/344/gmail-new.png" />
 </a>
 
-<!--* LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)*-->
+<!--LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)-->
 
 <!--
 Here are some ideas to get you started:
