@@ -8,7 +8,7 @@
 
 <!--Hi, I am Vikrant Kumar Tufani and I’m a CSE graduate from the University of Petroleum and Energy Studies, Dehradun. I am mainly skilled in java, springboot, MySQL, React and javascript. I'm passionate about contributing to the developer community and like to explore open source sometimes. In my freetime, I watch content on new topics, listen to music, read blogs and stay updated about world affairs. My goal is to remain focused on what I do and be good at it. -->  
 
-🚀 Senior Software Engineer at LTIMindtree | Frontend Development Enthusiast 🚀
+🚀 Senior Software Engineer at LTIMindtree | Full Stack Development Enthusiast 🚀
 
 With extensive experience in crafting high-performance web applications, I specialize in React.js, JavaScript, HTML5, CSS, and Java. My journey in software engineering has honed my ability to deliver seamless user experiences and responsive designs, ensuring that every project not only meets but exceeds expectations.
 
