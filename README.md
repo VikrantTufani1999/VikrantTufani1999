@@ -10,12 +10,13 @@
 
 🚀 Senior Software Engineer at LTIMindtree | Full Stack Development Enthusiast 🚀
 
-With extensive experience in crafting high-performance web applications, I specialize in React.js, JavaScript, HTML5, CSS, and Java. My journey in software engineering has honed my ability to deliver seamless user experiences and responsive designs, ensuring that every project not only meets but exceeds expectations.
+With extensive experience in crafting high-performance web applications, I specialize in React.js, JavaScript, HTML5, CSS, Java, Spring Boot and git. My journey in software engineering has honed my ability to deliver seamless user experiences and responsive designs, ensuring that every project not only meets but exceeds expectations.
 
-At LTIMindtree, I’ve worked on diverse projects, integrating technologies like Seeburger to drive efficiency and innovation. I thrive in dynamic environments where creativity meets technology, and I’m passionate about pushing the boundaries of software development.
+At LTIMindtree, I’ve worked on diverse projects, integrating technologies Java, React and EDI tools like Seeburger to drive efficiency and innovation. I thrive in dynamic environments where creativity meets technology, and I’m passionate about pushing the boundaries of software development.
+
+🌱 I’m currently learning Java Full Stack Development along with Cloud and DevOps Integration.
 
 💡 Actively seeking new opportunities to contribute my expertise and grow in a challenging, forward-thinking community. Let’s connect and explore how we can build something great together!
-
 
 <!--## ⚡Skills :desktop_computer: :keyboard:
 
@@ -37,6 +38,7 @@ At LTIMindtree, I’ve worked on diverse projects, integrating technologies like
 <a href = "mailto: vikrant.tufani99@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/color/344/gmail-new.png" />
 </a>
+
 
 <!--LinkedIn: *[Vikrant Tufani](https://www.linkedin.com/in/vikranttufani1999/)-->
 
